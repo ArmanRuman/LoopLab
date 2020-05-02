@@ -1,0 +1,36 @@
+
+body{
+background:#333;
+color:#fff;
+
+}
+
+.navbar{
+	border-bottom:3px solid #008ed6;
+  background:#292b2c;
+	color:white;
+  opacity:0.5;
+}
+
+#home-section
+{
+	background-image: url("home.png");
+  min-height:500px;
+}
+.dark-overlay{
+  background:rgba(0,0,0,0.7);
+  min-height:500px;
+}
+.fa{
+  background:#008ed6;
+  color:white;
+  padding:4px;
+  font-size:30px ;
+  border-radius:10px;
+}
+.card-form{
+  opacity:0.8;
+}
+.home-inner{
+  padding:150px;
+}
